@@ -1,5 +1,6 @@
-## Subscription manager
+# Subscription manager
 ## https://dilserg.github.io/subscription-manager/
+### code: https://github.com/dilserg/subscription-manager-code
 
 ### Authorization is in progress
 
